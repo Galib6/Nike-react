@@ -1,0 +1,35 @@
+.font {
+    font-family: 'Bebas Neue', cursive;
+}
+
+.header-container {
+    background-color: #FFF9F4;
+}
+
+.banner-font {
+    font-weight: 700;
+}
+
+.title-orange-color {
+    color: #FA804C;
+}
+
+.cart-button {
+    background-image: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+}
+
+.products {
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.price {
+    color: #FA804C;
+    font-weight: 900;
+    font-size: 36px;
+}
+
+.icons {
+    width: 78px;
+    height: 82px;
+}
